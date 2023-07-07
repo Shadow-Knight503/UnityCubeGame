@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 510250545d0d0a5e0b080875477659444e154e7c7c2b2032757f4967e3b03139
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 05090107560708020e570d7044225b441015417275712031287c1e60e6b3633c
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 50095705565059095c5c542712250f44174f49787c7e2767282f1962e1b0616a
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 575007025c04590e5b575f7149750644124e4b792d2d27692c784566e3b5313e
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 5209025f5c02510b5c590877407259444516197f292c73367e784c37b5b1616a
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5502005454565c5d58580a7643750c44474f4b7d2e7871332e7e4c64b4b36268
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 01080c0203540d5d595e5a7442765944474f4079287076697c2f1f63e7b4613d
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 560706025c0c0b0b5e0c082112270c44104e40297571226228701b6bb7e3676a
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 005002035306595958590927137b064441164e7e2a2e7269782d4e66b2b76260
+      flags: 0
+    UnityRemoteDevice:
+      value: 2d5e5a03
+      flags: 0
+    UnityRemoteJoystickSource:
+      value: 315459091150
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 2
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_ArtifactGarbageCollection: 1
